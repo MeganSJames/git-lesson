@@ -6,3 +6,4 @@
 + Pull from a remote source
 + Learn how to write simple webpages
 + Add a link to [RSE Home page](https://rse.shef.ac.uk)
++ Changed university email to be public on GitHub
